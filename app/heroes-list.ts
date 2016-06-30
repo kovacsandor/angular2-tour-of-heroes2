@@ -1,6 +1,6 @@
 import { Hero } from './hero';
 
-export var heroesList: Hero[] = [
+export var HEROESLIST: Hero[] = [
   { id: 11, name: 'Mr. Nice' },
   { id: 12, name: 'Narco' },
   { id: 13, name: 'Bombasto' },
